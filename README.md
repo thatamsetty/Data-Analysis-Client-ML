@@ -156,7 +156,3 @@ Do you want me to prepare that now?
 
 
 
-
-
-Ask ChatGPT
-
